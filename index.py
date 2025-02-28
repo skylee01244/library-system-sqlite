@@ -10,7 +10,7 @@ import sqlite3
 
 from PyQt6.uic import loadUiType
 
-ui,_ = loadUiType('untitled.ui')
+ui,_ = loadUiType('home.ui')
 login,_ = loadUiType('login.ui')
 
 
