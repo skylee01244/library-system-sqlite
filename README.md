@@ -1,5 +1,5 @@
 # A Library Management System
-This Library Management System is a robust application built using Python PyQt6 and integrated with a SQLite local database. The system offers comprehensive features to manage library operations efficiently
+This Library Management System is a robust application built using Python **PyQt6** and integrated with a **SQLite** local database. The system offers comprehensive features to manage library operations efficiently
 
 ## Build Instructions
 **1) Install Required Packages**  
@@ -29,9 +29,9 @@ password: 123
 ```
 
 ## Capabilities and Functionalities
-- *User Authentication and Management*: Seamlessly login, create, edit, and delete user accounts ensuring robust security and user privacy.  
-- *Client Management*: Efficiently add, update, and remove client records with comprehensive details to enhance customer relations.  
-- *Book Inventory Management*: Flawlessly manage the library's book inventory by adding, updating, and deleting book records, ensuring accurate and up-to-date cataloging.  
-- *Borrowing and Returning Management*: Record and track book borrowing and return transactions effortlessly, ensuring accurate and real-time updates of the library's collection.  
-- *Category, Author, and Publisher Management*: Maintain a meticulously organized library database by managing book categories, authors, and publishers.  
-- *Data Exportation*: Easily export all data to an Excel sheet for systematic record-keeping and analytical purposes.  
+- **User Authentication and Management**: Seamlessly login, create, edit, and delete user accounts ensuring robust security and user privacy.  
+- **Client Management**: Efficiently add, update, and remove client records with comprehensive details to enhance customer relations.  
+- **Book Inventory Management**: Flawlessly manage the library's book inventory by adding, updating, and deleting book records, ensuring accurate and up-to-date cataloging.  
+- **Borrowing and Returning Management**: Record and track book borrowing and return transactions effortlessly, ensuring accurate and real-time updates of the library's collection.  
+- **Category, Author, and Publisher Management**: Maintain a meticulously organized library database by managing book categories, authors, and publishers.  
+- **Data Exportation**: Easily export all data to an Excel sheet for systematic record-keeping and analytical purposes.  
