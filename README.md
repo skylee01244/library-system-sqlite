@@ -7,7 +7,8 @@ A Library Management System built with PyQt6 & SQLite
 pip install PyQt6 xlrd xlsxwriter mysql-connector-python pyinstaller
 ```
 **2) Navigate to Your Project Directory**  
- Open your terminal and navigate to the project directory where index.py is located.  
+Open your terminal and navigate to the project directory where index.py is located.  
+
 **3) Build the Executable**  
 ```
 pyinstaller --name=LibrarySystem --windowed --onefile --icon=icons/library.ico --add-data "home.ui;." --add-data "login.ui;." --add-data "library_data.db;." --add-data "themes/*;themes/" --add-data "icons/*;icons/" --add-data "icons.qrc;." --hidden-import=icons_rc --exclude PySide6 index.py
