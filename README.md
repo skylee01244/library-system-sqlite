@@ -7,7 +7,7 @@ This Library Management System is a robust application built using Python **PyQt
 ```
 pip install PyQt6 xlrd xlsxwriter mysql-connector-python pyinstaller
 ```
-> For a single-configuration generator (LINUX & MACOS)
+> For a single-configuration generator (LINUX & MACOS)  
 > ⚠️ **Warning** First option will need a virtual env while option 2 & 3 are risky
 ```
 pip install PyQt6 xlrd xlsxwriter mysql-connector-python pyinstaller
